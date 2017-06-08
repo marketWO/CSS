@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Příklad CSS</title>
+    <style>
+    h1 {
+      color: grey;
+      font-weight: bold;
+      font-size: xx-large;
+      font-family: fantasy;
+    }
+     p {
+      color: lightgreen;
+      font-style: italic;
+      font-size: x-large;
+      font-family: monospace;
+    }
+    cite {
+      color: lightblue;
+      font-size: large;
+      font-variant-caps: small-caps;
+      font-family: sans-serif;
+    }
+    blockquote {
+      background: black;
+    }
+    </style>
+  </head>
+  <body>
+    <h1>Nesmysl</h1>
+    <blockquote>
+      <p>Bezbarvé zelené myšlenky zuřivě spí.</p>
+      <cite>Noam Chomsky</cite>  
+    </blockquote>
+  </body>
+</html>
